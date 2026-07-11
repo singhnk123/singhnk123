@@ -84,11 +84,7 @@ AI-powered event analytics and prediction platform.
 ### Traffic Demand Prediction
 Machine learning solution developed during Flipkart GRiD 2.0.
 
-### Brain Tumor Detection
-Deep learning-based medical image classification system.
 
-### Olympics Data Analysis
-Interactive data analysis and visualization project.
 
 ---
 
