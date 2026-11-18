@@ -90,22 +90,16 @@ Machine learning solution developed during Flipkart GRiD 2.0.
 
 
 
+
 ## GitHub Statistics
 
 <p align="center">
-  <img height="170"
-    src="https://github-readme-stats.vercel.app/api?username=singhnk123&show_icons=true&hide_border=true&theme=github_dark"
-    alt="GitHub Stats"/>
-
-  <img height="170"
-    src="https://streak-stats.demolab.com?user=singhnk123&hide_border=true&theme=github-dark-blue"
-    alt="GitHub Streak"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=singhnk123&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub Stats"/>
+  <img width="400" src="https://streak-stats.demolab.com?user=singhnk123&hide_border=true&theme=github-dark-blue" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhnk123&layout=compact&hide_border=true&theme=github_dark"
-    alt="Top Languages"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhnk123&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages"/>
 </p>
 
 
