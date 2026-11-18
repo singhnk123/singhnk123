@@ -14,7 +14,7 @@ Building intelligent solutions with AI and data.
 <tr>
 <td width="38%">
 
-<img src="./assets/profile.png" width="320"/>
+<img src="./assets/profile1.png" width="320" alt="Neekhil Kumar Singh"/>
 
 </td>
 
@@ -88,16 +88,26 @@ Machine learning solution developed during Flipkart GRiD 2.0.
 
 ---
 
+
+
 ## GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=neekhilsingh&show_icons=true&hide_border=true&theme=github_dark"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=neekhilsingh&hide_border=true&theme=github-dark-blue"/>
+  <img height="170"
+    src="https://github-readme-stats.vercel.app/api?username=singhnk123&show_icons=true&hide_border=true&theme=github_dark"
+    alt="GitHub Stats"/>
+
+  <img height="170"
+    src="https://streak-stats.demolab.com?user=singhnk123&hide_border=true&theme=github-dark-blue"
+    alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neekhilsingh&layout=compact&hide_border=true&theme=github_dark"/>
+  <img height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhnk123&layout=compact&hide_border=true&theme=github_dark"
+    alt="Top Languages"/>
 </p>
+
 
 ---
 
